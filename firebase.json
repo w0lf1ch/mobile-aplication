@@ -1,0 +1,27 @@
+{
+  "flutter": {
+    "platforms": {
+      "android": {
+        "default": {
+          "projectId": "calculator-eek-hmw",
+          "appId": "1:700640098402:android:2f5255665c9a413a4cf93b",
+          "fileOutput": "android/app/google-services.json"
+        }
+      },
+      "dart": {
+        "lib/firebase_options.dart": {
+          "projectId": "calculator-eek-hmw",
+          "configurations": {
+            "android": "1:700640098402:android:2f5255665c9a413a4cf93b"
+          }
+        }
+      }
+    }
+  },
+  "firestore": {
+    "database": "(default)",
+    "location": "eur3",
+    "rules": "firestore_rules/firestore.rules",
+    "indexes": "firestore.indexes.json"
+  }
+}

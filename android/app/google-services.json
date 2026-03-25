@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "700640098402",
+    "project_id": "calculator-eek-hmw",
+    "storage_bucket": "calculator-eek-hmw.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:700640098402:android:2f5255665c9a413a4cf93b",
+        "android_client_info": {
+          "package_name": "com.example.calculator_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAiwZVMEVJ9uDvS40cw81_wdVgN9HJjotU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
